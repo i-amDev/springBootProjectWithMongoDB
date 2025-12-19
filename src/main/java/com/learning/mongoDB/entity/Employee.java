@@ -25,6 +25,5 @@ public class Employee {
 
     private Long salary;
 
-
     private Address address;
 }
